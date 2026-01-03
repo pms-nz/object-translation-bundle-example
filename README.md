@@ -1,0 +1,1 @@
+# object-translation-bundle-example
